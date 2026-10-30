@@ -13,7 +13,7 @@
 3. [What is inside](#what-is-inside)
 4. [Skills demonstrated](#skills-demonstrated)
 5. [Scripts in detail](#scripts-in-detail)
-6. [Data files](#data-files)
+6. [Data files](#data-files) 
 7. [Testing notes](#testing-notes)
 8. [Design decisions](#design-decisions)
 9. [What I learned](#what-i-learned)
