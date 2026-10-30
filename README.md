@@ -124,7 +124,7 @@ Reads `allow_list.txt`, removes every IP address that appears on a remove list, 
 
 **Output (first run):**
 
-![Output of algorithm_allow_list_updater.py](assets/scr-shot-1.png)
+![Output of algorithm_allow_list_updater.py](python-security-automation-algorithms/assets/scr-shot-1.png)
 
 
 *Screenshot: `scr-shot-1.png`*
@@ -156,7 +156,7 @@ A login attempt is accepted only if the user is on the approved list **and** the
 
 **Output:**
 
-![Output of access_control_verification.py](assets/scr-shot-4.png)
+![Output of access_control_verification.py](python-security-automation-algorithms/assets/scr-shot-4.png)
 
 *Screenshot: `scr-shot-4.png`*
 
@@ -190,7 +190,7 @@ Two small monitoring checks:
 
 **Output:**
 
-![Output of login_anomaly_detector.py](assets/scr-shot-2.png)
+![Output of login_anomaly_detector.py](python-security-automation-algorithms/assets/scr-shot-2.png)
 
 
 *Screenshot: `scr-shot-2.png`*
@@ -225,7 +225,7 @@ Adds a missing entry to `login.txt`. It checks first, so running the script agai
 **Output (first run):**
 
 
-![Output of log_file_handler.py](assets/scr-shot-3.png)
+![Output of log_file_handler.py](python-security-automation-algorithms/assets/scr-shot-3.png)
 
 *Screenshot: `scr-shot-3.png`*
 
