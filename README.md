@@ -126,6 +126,7 @@ Reads `allow_list.txt`, removes every IP address that appears on a remove list, 
 
 ![Output of algorithm_allow_list_updater.py](assets/scr-shot-1.png)
 
+
 *Screenshot: `scr-shot-1.png`*
 
 ```
@@ -191,6 +192,7 @@ Two small monitoring checks:
 
 ![Output of login_anomaly_detector.py](assets/scr-shot-2.png)
 
+
 *Screenshot: `scr-shot-2.png`*
 
 ```
@@ -221,6 +223,7 @@ Adds a missing entry to `login.txt`. It checks first, so running the script agai
 | 6 | Read the file again and print it to confirm the result | `.read()`, `print()` |
 
 **Output (first run):**
+
 
 ![Output of log_file_handler.py](assets/scr-shot-3.png)
 
