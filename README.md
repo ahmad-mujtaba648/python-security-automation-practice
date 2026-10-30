@@ -1,4 +1,3 @@
-```text
 # Python Security Automation Practice
 
 > Small Python scripts that automate everyday security-analyst tasks: updating an IP allow list, verifying logins, spotting unusual login activity, and keeping a login log tidy.
@@ -55,7 +54,6 @@ python access_control_verification.py
 python login_anomaly_detector.py
 python log_file_handler.py
 
-```
 
 > **Note:** Two scripts change their data file. The first run edits `allow_list.txt` and `login.txt`; later runs make no further change. To get the original sample data back, copy the original text from the [Data files](https://www.google.com/search?q=%23data-files) section into the two files again (or run `git restore allow_list.txt login.txt` if you cloned the repository).
 
