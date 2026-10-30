@@ -202,7 +202,7 @@ No login history for newuser - ratio cannot be calculated.
 
 Your account is locked
 ```
-
+  
 ---
 
 ### 4. Log file handler
