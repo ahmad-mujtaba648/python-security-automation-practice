@@ -357,4 +357,4 @@ This project was built while studying **Course 7: Automate Cybersecurity Tasks w
 
 - GitHub: [ahmad-mujtaba648](https://github.com/ahmad-mujtaba648)
 - LinkedIn: [Ahmad Mujtaba](https://www.linkedin.com/in/ahmad-mujtaba-9b2539362)
-  
+- [![Automate Cybersecurity Tasks with Python](https://img.shields.io/badge/Automate_Cybersecurity_Tasks-with_Python-4285F4?style=flat&logo=python&logoColor=white)](https://coursera.org/verify/QH9MPG3PBLIF)  
