@@ -4,7 +4,7 @@
 
 ![Python 3](https://img.shields.io/badge/Python-3-blue)
 ![Type](https://img.shields.io/badge/type-practice%20project-lightgrey)
-![Course](https://img.shields.io/badge/course-Automate%20Cybersecurity%20Tasks%20with%20Python-green)
+
 
 ## Table of Contents
 
